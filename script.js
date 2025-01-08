@@ -1,5 +1,5 @@
 const titleText = "Ambrel Crest Technologies";
-const subtitleText = "We're building something amazing! Stay tuned... for the big reveal!";
+const subtitleText = "We're building something Stay tuned... for the big reveal!";
 const typingTitle = document.getElementById("typing-title");
 const typingSubtitle = document.getElementById("typing-subtitle");
 
